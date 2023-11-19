@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, soy Dajan Medina</h1>
 <h3 align="center">Me dedico a la creación de aplicaciones Web</h3>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dmedina2150dev" alt="dmedina2150dev" />
-    </a>
-</p>
-
 - 🌱 Actualmente estoy aprendiendo **NODEJS, Angular+16, React, NextJs, CSS y SASS**
 
 - 👨‍💻 Proyectos en lo que trabajo [https://dmedinadweb.cl/](https://dmedinadweb.cl/)
