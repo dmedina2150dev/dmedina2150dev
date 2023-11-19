@@ -12,9 +12,11 @@
 <!-- - 📫 Como contactarme **dmedina2150dev@gmail.com** -->
 
 - 📄 Conoce mis experiencias [https://dmedinadweb.cl/cv](https://dmedinadweb.cl/cv)
-<br/>
-<br/>
+<br>
+<br>
+
 ---
+
 <h3 align="left">Mis Redes sociales:</h3>
 <p align="left">
 
