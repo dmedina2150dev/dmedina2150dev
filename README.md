@@ -1,30 +1,12 @@
 <h1 align="center">Hola 👋, soy Dajan Medina</h1>
 <h3 align="center">Me dedico a la creación de aplicaciones Web</h3>
 
-- 🌱 Actualmente estoy estudiando para mejorar mis habilidades en **NODEJS, Angular+16, React, NextJs, CSS y SASS**
-
-- 👨‍💻 Proyectos en lo que trabajo [https://dmedinadweb.cl/](https://dmedinadweb.cl/)
-
-<!-- - 📝 Escribo regularmente artículos sobre [https://dmedinadweb.cl/blog](https://dmedinadweb.cl/blog) -->
-
-- 💬 Preguntame sobre **Angular, React, NextJs, NodeJS, Express**
-
-<!-- - 📫 Como contactarme **dmedina2150dev@gmail.com** -->
-
-- 📄 Conoce mis experiencias [https://dmedinadweb.cl/cv](https://dmedinadweb.cl/cv)
-
----
-
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmedina2150dev&show_icons=true&locale=en&layout=compact" alt="dmedina2150dev" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmedina2150dev&show_icons=true&locale=en" alt="dmedina2150dev" /></p>
 <br>
 
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmedina2150dev&" alt="dmedina2150dev" /></p>
-<br>
 
 ---
 <h3 align="left">Mis Redes sociales:</h3>
