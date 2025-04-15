@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Dajan Medina</h1>
 <h3 align="center">Me dedico a la creación de aplicaciones Web</h3>
 
-<p>
+<!--<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmedina2150dev&show_icons=true&locale=en&layout=compact" alt="dmedina2150dev" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmedina2150dev&show_icons=true&locale=en" alt="dmedina2150dev" /></p>
-<br>
+<br>-->
 
 
 ---
