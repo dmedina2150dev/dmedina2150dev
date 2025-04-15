@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Dajan Medina</h1>
-<h3 align="center">Me dedico a la creación de aplicaciones Web</h3>
+<!--<h3 align="center">Me dedico a la creación de aplicaciones Web</h3>-->
 
 <!--<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmedina2150dev&show_icons=true&locale=en&layout=compact" alt="dmedina2150dev" />
@@ -14,7 +14,7 @@
 
 <a href="https://dev.to/dmedina2150dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dmedina2150dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dajan-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dajan-medina" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dajanmedinadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dajan" height="30" width="40" /></a>
+<!--<a href="https://www.instagram.com/dajanmedinadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dajan" height="30" width="40" /></a>-->
 </p>
 
 -----
