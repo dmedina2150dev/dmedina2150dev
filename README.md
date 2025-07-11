@@ -1,123 +1,95 @@
-<h1 align="center">Hola 👋, soy Dajan Medina</h1>
-<!--<h3 align="center">Me dedico a la creación de aplicaciones Web</h3>-->
+# 👨‍💻 Hola, soy Dajan Medina
 
-<h3 align="left">Mis Redes sociales:</h3>
+## 🚀 Full Stack Developer
 
-<a href="https://dev.to/dmedina2150dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dmedina2150dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dajan-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dajan-medina" height="30" width="40" /></a>
+Soy un desarrollador apasionado por crear aplicaciones web modernas y escalables. Me especializo en el ecosistema JavaScript/TypeScript y disfruto trabajando tanto en el frontend como en el backend.
 
-</p>
+### 🌟 Sobre mí
 
----
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-
-<a href="https://angular.dev" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
-
-<br>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-
-<br>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
-</a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</a>
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<br>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-<br>
-
-</p>
+- 💻 Desarrollador Full Stack con experiencia en tecnologías modernas
+- 🎯 Enfocado en crear experiencias de usuario excepcionales
+- 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas
+- 🚀 Apasionado por el desarrollo web y la innovación tecnológica
 
 ---
 
-<h3 align="left">Enlaces a recursos</h3>
+## 🛠️ Stack Tecnológico
 
-- 1. [Recursos HTML](https://gist.github.com/dmedina2150dev/c9a21ffcf187c506d0617a731f430557)
-- 2. [Recursos CSS](https://gist.github.com/dmedina2150dev/c5a9b1686494f318b8cd44dcc4cb6f03)
-- 3. [Recursos JavaScript](https://gist.github.com/dmedina2150dev/089bd0290352bc4c39be8fa7b916e328)
-- 4. [Librerias / Frameworks JavaScript](https://gist.github.com/dmedina2150dev/fe93190d9fe66a653115825093ebcefe)
-- 5. [Recursos React](https://gist.github.com/dmedina2150dev/6baa4696a3fbda2699cdaa009d5a8784)
-- 6. [Recursos NextJs](https://gist.github.com/dmedina2150dev/d6aa9209702ef952bf37083ce773cb6f)
-- 7. [Recurso Nodejs](https://gist.github.com/dmedina2150dev/038bff58ef2fef1d2b51b7749400bafd)
-- 8. [Recursos APIs de prueba](https://gist.github.com/dmedina2150dev/eb33aa613b8c03bca8f5d803346d127a)
-- 9. [Web Sistemas de diseño](https://gist.github.com/dmedina2150dev/906dd689f4f67fa93b1cc5147295713a)
-- 10. [Lecturas](https://gist.github.com/dmedina2150dev/e990e781431c9aa80be5060f1b2b69b5)
+### **Frontend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<!---
-dmedina2150dev/dmedina2150dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Styling & UI**
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<!--
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-</a>
+### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
--->
+### **Testing & Quality**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📚 Recursos y Referencias
+
+He compilado una colección de recursos útiles para el desarrollo web:
+
+### 🎯 **Recursos por Tecnología**
+- 📄 [Recursos HTML](https://gist.github.com/dmedina2150dev/c9a21ffcf187c506d0617a731f430557) - Guías y referencias de HTML
+- 🎨 [Recursos CSS](https://gist.github.com/dmedina2150dev/c5a9b1686494f318b8cd44dcc4cb6f03) - Estilos, frameworks y mejores prácticas
+- ⚡ [Recursos JavaScript](https://gist.github.com/dmedina2150dev/089bd0290352bc4c39be8fa7b916e328) - ES6+, patrones y librerías
+- 📚 [Librerías y Frameworks JS](https://gist.github.com/dmedina2150dev/fe93190d9fe66a653115825093ebcefe) - React, Vue, Angular y más
+- ⚛️ [Recursos React](https://gist.github.com/dmedina2150dev/6baa4696a3fbda2699cdaa009d5a8784) - Hooks, patrones y librerías
+- 🚀 [Recursos Next.js](https://gist.github.com/dmedina2150dev/d6aa9209702ef952bf37083ce773cb6f) - SSR, SSG y optimizaciones
+- 🟢 [Recursos Node.js](https://gist.github.com/dmedina2150dev/038bff58ef2fef1d2b51b7749400bafd) - Backend, APIs y servidores
+
+### 🛠️ **Herramientas y APIs**
+- 🔌 [APIs de Prueba](https://gist.github.com/dmedina2150dev/eb33aa613b8c03bca8f5d803346d127a) - APIs gratuitas para desarrollo
+- 🎨 [Sistemas de Diseño](https://gist.github.com/dmedina2150dev/906dd689f4f67fa93b1cc5147295713a) - Componentes y guías de diseño
+- 📖 [Lecturas Recomendadas](https://gist.github.com/dmedina2150dev/e990e781431c9aa80be5060f1b2b69b5) - Artículos y libros técnicos
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Dajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmedina2150dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmedina2150dev&layout=compact&theme=radical)
+
+---
+
+## 🤝 Conectemos
+
+¡Me encantaría conectar contigo! No dudes en contactarme:
+
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/dmedina2150dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dajan-medina)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmedina2150dev&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+
