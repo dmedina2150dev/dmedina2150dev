@@ -21,6 +21,7 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas y escalables
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-351C75?style=flat-square&logo=astro&logoColor=white)
 
 ### **Styling & UI**
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
